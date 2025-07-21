@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Call Limiter</string> <!-- Example, you likely have this -->
+    <string name="notification_title">Call Limiter Active</string>
+    <string name="notification_text">Managing call limits in background</string>
+</resources>
