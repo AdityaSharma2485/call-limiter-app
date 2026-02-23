@@ -5,6 +5,8 @@ An Android application built to monitor and limit outgoing phone calls — desig
 > **Built in 3 days** as a personal project to help a family member with health concerns who was over-calling people.
 
 ---
+<img width="1600" height="794" alt="image" src="https://github.com/user-attachments/assets/fc596710-f1c5-4694-8ba2-54e61fa475a2" />
+
 
 ## ✨ Features
 
